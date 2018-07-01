@@ -48,6 +48,7 @@ body {
   display: inline-block;
   margin-right: 19px;
 }
+
 .area-1{
   display: flex;
   background-color: #18bc9c;
@@ -78,10 +79,11 @@ body {
   border: 3px solid white;
   width: 114px;
 }
-.icon-star-2{
+.icon-star{
   font-size: 37px;
   position: relative;
   bottom: 17px;
+  color: white;
 }
 .icons{
   display: flex;
@@ -102,7 +104,6 @@ body {
   display: flex;
   width:100%;
   height:860px;
-  background-color: pink;
   align-items: center;
   flex-direction: column;
 }
@@ -193,6 +194,71 @@ body {
   background-color: #F8F9FA;
   color: black;
 }
+
+.area-4{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 962px;
+  width: 100%;
+}
+.container-area-4{
+  width: 1140px;
+  height: 770px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.contact{
+  font-size: 3rem;
+  margin-top: 76px;
+}
+.form-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.form{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 728px;
+  height: 622px;
+}
+.container-form{
+  position: relative;
+  border-bottom: 1px solid #e9ecef;
+  width: 730px;
+}
+.input-form{
+  display: block;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+  border: none;
+  height: 97px;
+}
+.bnt-2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-top: 47px;
+  padding: 20px;
+  background-color: #18bc9c;
+  border: 2px solid white;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  right: 320px;
+}
+.bnt-2:hover{
+  background-color: #128F76;
+  color: white;
+}
+
+
+
+
 /* .Topopagina{
   background-color: #2c3e50;
   width: 100%;
