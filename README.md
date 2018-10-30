@@ -8,4 +8,4 @@ No desafio final do Sprint 2 foi requerido que utilizassemos a ferramenta Pixel 
 ## Tecnologias Utilizadas
 - HTML;
 - CSS3;
-- Pixel Perfect
+- Pixel Perfect;
