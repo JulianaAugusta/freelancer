@@ -5,7 +5,7 @@ No desafio final do Sprint 2 foi requerido que utilizassemos a ferramenta Pixel 
 
 ![Freelancer Website](docs/fullpage.png)
 
-##Tecnologias Utilizadas
--HTML;
--CSS3;
--Pixel Perfect
+## Tecnologias Utilizadas
+- HTML;
+- CSS3;
+- Pixel Perfect
